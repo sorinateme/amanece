@@ -3,7 +3,7 @@
  *
  * Uso (página web o app Capacitor):
  *   <script src="amanecer-chat.js"
- *           data-endpoint="https://amanecer-chat.TU-CUENTA.workers.dev/chat"
+ *           data-endpoint="https://us-central1-TU-PROYECTO.cloudfunctions.net/chat"
  *           defer></script>
  *
  * Atributos opcionales:

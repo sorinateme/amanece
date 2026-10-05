@@ -1,3 +1,5 @@
 node_modules/
-.wrangler/
 .dev.vars
+functions/.secret.local
+functions/.env.local
+firebase-debug.log
